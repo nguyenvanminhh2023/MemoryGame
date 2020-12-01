@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1591109211 source:d:\nguyenvanminhh\memorygame\showtable.cpp
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	<SDL_ttf.h>
+	<cstdio>
+	<vector>
+	<sstream>
+	"showTable.h"
+
+1591162826 source:d:\nguyenvanminhh\memorygame\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<cstdlib>
+	<cstdio>
+	<string>
+	<ctime>
+	<windows.h>
+	"showTable.h"
+
+1591343749 d:\nguyenvanminhh\memorygame\showtable.h
+	<SDL.h>
+	<iostream>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+
+1591283653 source:d:\nguyenvanminhh\memorygame\level2.cpp
+	"showTable.h"
+
+1591283653 source:d:\nguyenvanminhh\memorygame\level1.cpp
+	"showTable.h"
+
+1591283658 source:d:\nguyenvanminhh\memorygame\level3.cpp
+	"showTable.h"
+
